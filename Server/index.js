@@ -1,7 +1,8 @@
 const express = require('express')
 const studentsData  = require('./data.json')
 const app = express();
-
+const cors = require('cors')
+app.use(cors())
 
 const PORT = 7100;
 app.listen(PORT, (req,res)=> {
