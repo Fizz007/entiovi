@@ -8,10 +8,10 @@ function App() {
   const [backenddata, setBackendData] = useState([]);
   
   useEffect(() => {
-    axios.get(`${baseUrl}/data`)
+    axios.get(`http://localhost:7100/data`)
       .then((response) => {
-        console.log(response.data);
-        setBackendData(response.data);
+        console.log(response.data.data);
+        setBackendData(response.data.data);
       })      
       .catch((err) => console.log("error", err));
   }, []);
