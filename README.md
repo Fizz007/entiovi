@@ -24,4 +24,4 @@ Steps to Build...
 
 <h1>Project Screenshot</h1>
 
-![Alt Text](https://ibb.co/K9LGFqg)
+![Screenshot](https://ibb.co/BtY3pc0)
