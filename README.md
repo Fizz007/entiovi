@@ -22,6 +22,6 @@ Steps to Build...
 ---
 
 
-<h1>Video Link</h1>
+<h1>Project Screenshot</h1>
 
-[![IMAGE ALT TEXT HERE](https://ibb.co/K9LGFqg)]
+![Alt Text](https://ibb.co/K9LGFqg)
