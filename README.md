@@ -1,6 +1,6 @@
 Title ...
 
-WASSERSTOFF ASSIGNMENT
+Entiovi ASSIGNMENT
 
 ---
 
@@ -19,9 +19,5 @@ Steps to Build...
 => After finishing code run the "npm start" command to run your code on localhost:3000
 
 
----
 
 
-<h1>Project Screenshot</h1>
-
-![Screenshot](https://ibb.co/BtY3pc0)
