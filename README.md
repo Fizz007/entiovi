@@ -19,5 +19,9 @@ Steps to Build...
 => After finishing code run the "npm start" command to run your code on localhost:3000
 
 
+## Please run this assignment locally only the frontend part, backend part is already hoisted.
+while hoisting frontend part there are some issues coming regarding Kendo table License key thats why frontend part is not hoisted
+
+
 
 
